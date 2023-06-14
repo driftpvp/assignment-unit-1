@@ -11,12 +11,28 @@
 /* Change the font-family of your list */
 html,
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0.5;
+    padding: 1.0;
 }
-#hello {
-    color: green
+header {
+    color: brown;
 }
-.container {
-    background-color: aqua;
+body {
+    background-color: rgb(86, 182, 246);
+}
+ul {
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+footer {
+    background-color: rgb(232, 248, 105);
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-style: italic; color:darkgreen;
+}
+img {
+    border: 15px solid brown;
 }
